@@ -1,0 +1,54 @@
+html{
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:50px;
+}
+body{
+    margin:0 auto;
+    background-color:rgba(255, 255, 255, 0.8);
+    width: 600px;
+    border-radius:25px;
+    border-style:solid;
+    border-width:2px;
+    border-color:purple;
+    font-family: 'Montserrat', sans-serif;
+}
+.login{
+    background-color:purple;
+    text-align:center;
+    color:white;
+    padding:50px;
+}
+.name{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+hr{
+    width:60%;
+}
+button{
+    background-color:green;
+    color:white;
+    font-size:20px;
+    width:100px;
+    height:40px;
+}
+a{
+    color:white;
+    font-family:georgia;
+    font-style:italic;
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+    color:yellow;
+}
+.images{
+    width:70px;
+    padding:20px 10px;
+    display:inline-block;
+    margin-left:auto;
+    margin-right:auto;
+}
